@@ -1,0 +1,698 @@
+1580462125373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tJqA99rxk12X"
+1580462135456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580462135457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580462135457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580462135457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580462136989	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462136990	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462136991	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462137034	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462137034	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462137038	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462150777	Marionette	INFO	Listening on port 43989
+1580462150889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1580462361319	Marionette	INFO	Stopped listening on port 43989
+1580462525103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NcH8OgBxZlBk"
+1580462529239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580462529240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580462529240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580462529241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580462529397	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462529397	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462529399	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462529414	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462529414	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462529415	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462535506	Marionette	INFO	Listening on port 40199
+1580462535559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580462553233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H7KdcjxJcLWG"
+1580462554686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580462554686	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580462554687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580462554687	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580462554886	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462554886	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462554887	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462554898	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462554898	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462554899	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462560776	Marionette	INFO	Listening on port 44983
+1580462560866	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17459, Gecko_IOThread] WARNING: pipe error (90): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1580462592633	Marionette	INFO	Stopped listening on port 40199
+1580462593708	Marionette	INFO	Stopped listening on port 44983
+1580462598141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7jdc1BVtLxKv"
+1580462600029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580462600032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580462600033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580462600033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580462601546	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462601546	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462601547	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462601560	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462601560	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462601561	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462607962	Marionette	INFO	Listening on port 45679
+1580462607995	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1580462921929	Marionette	INFO	Stopped listening on port 45679
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1580462922230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TTfI0JAjo8wT"
+1580462923489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580462923490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580462923490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580462923491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580462923679	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462923679	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462923680	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462923691	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462923691	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462923692	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462929353	Marionette	INFO	Listening on port 35467
+1580462929387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580462962336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nSTR8EQYUZsT"
+1580462963910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580462963912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580462963913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580462963914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580462964223	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462964223	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462964224	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580462964240	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462964240	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580462964242	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+[Parent 18310, Gecko_IOThread] WARNING: pipe error (118): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1580462972280	Marionette	INFO	Listening on port 35533
+1580462972353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580462973711	Marionette	INFO	Stopped listening on port 35467
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1580463111491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qsjUGPBaTTK2"
+1580463113876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580463113877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580463113877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580463113877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580463114432	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580463114432	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580463114435	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580463114475	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580463114476	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580463114478	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580463122514	Marionette	INFO	Listening on port 36433
+1580463122540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580463126145	Marionette	INFO	Stopped listening on port 35533
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 180: Error: permitUnload is already running for this tab.
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+[Child 18880, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 18815, Gecko_IOThread] WARNING: pipe error (143): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1580463149375	Marionette	INFO	Stopped listening on port 36433
+1580463167046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eaOpIi4XRNCq"
+1580463170135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580463170135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580463170136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580463170136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580463170342	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580463170343	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580463170344	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580463170356	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580463170356	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580463170357	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580463176961	Marionette	INFO	Listening on port 32795
+1580463177027	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1580463667361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.osd52LK1Lhq7"
+1580463669413	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580463669414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580463669414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580463669414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580463669587	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580463669587	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580463669588	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580463669600	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580463669601	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580463669601	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580463677608	Marionette	INFO	Listening on port 46773
+1580463677699	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19021, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1580463680871	Marionette	INFO	Stopped listening on port 32795
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 19563, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1580463703671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.I1DABVksABS7"
+1580463705632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580463705633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580463705635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580463705635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580463705969	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580463705970	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580463705971	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580463705982	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580463705982	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580463705983	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580463714462	Marionette	INFO	Stopped listening on port 46773
+1580463716500	Marionette	INFO	Listening on port 42539
+1580463716583	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/ec044ncckyi.js?_nc_x=3vjgpNIURrx, line 277: Error: Script terminated by timeout at:
+a/<@https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/ec044ncckyi.js?_nc_x=3vjgpNIURrx:277:1
+
+1580464010756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AKUtQIImQyJE"
+1580464012094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580464012095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580464012095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580464012095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580464012359	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464012359	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464012361	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464012373	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464012373	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464012374	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464019371	Marionette	INFO	Listening on port 44691
+1580464019758	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19787, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 19787, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1580464030992	Marionette	INFO	Stopped listening on port 42539
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1580464097295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pczQfxSCejym"
+1580464100807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580464100807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580464100808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580464100808	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580464101023	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464101023	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464101024	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464101034	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464101034	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464101035	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464103885	Marionette	INFO	Stopped listening on port 44691
+1580464108425	Marionette	INFO	Listening on port 40399
+1580464108478	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20647, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1580464382578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LXDpP1MYMLz0"
+1580464383645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580464383645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580464383646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580464383646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580464383887	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464383887	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464383888	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464383918	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464383919	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464383921	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464390971	Marionette	INFO	Listening on port 40181
+1580464391105	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1580464395374	Marionette	INFO	Stopped listening on port 40399
+[Parent 20982, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x57000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1580464452613	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NjkO8U0sOFcJ"
+1580464454151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580464454151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580464454152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580464454152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580464454328	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464454328	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464454329	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464454339	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464454339	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464454340	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464460406	Marionette	INFO	Listening on port 36883
+1580464460468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580464464090	Marionette	INFO	Stopped listening on port 40181
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5133: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+[Parent 21219, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1580464512775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Y9hj1840h7JO"
+[Parent 21219, Gecko_IOThread] WARNING: pipe error (168): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 21219, Gecko_IOThread] WARNING: pipe error (132): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1580464515046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580464515046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580464515047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580464515047	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580464515237	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464515237	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464515238	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464515250	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464515250	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464515251	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464522043	Marionette	INFO	Listening on port 43521
+1580464522133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580464532815	Marionette	INFO	Stopped listening on port 36883
+1580464553133	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 21434, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+[Child 21509, MediaDecoderStateMachine #1] WARNING: Decoder=7f2f0ade6c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3305
+1580464831639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Tpy4NEYp84zx"
+1580464833077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580464833077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580464833077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580464833078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580464833258	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464833258	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464833258	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580464833268	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464833268	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464833269	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580464840901	Marionette	INFO	Listening on port 43325
+1580464840938	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21901, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1580464888941	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1580464970072	Marionette	INFO	Stopped listening on port 43325
+1580465025641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f5NocrTHcNdH"
+1580465028800	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580465028801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580465028801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580465028801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580465029014	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580465029014	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580465029017	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580465029071	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580465029071	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580465029072	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580465040102	Marionette	INFO	Listening on port 33683
+1580465040180	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22214, Gecko_IOThread] WARNING: pipe error (119): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1580465070145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kOQTkjgX0v2M"
+1580465072425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580465072425	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580465072426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580465072426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580465072596	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580465072596	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580465072597	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580465072608	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580465072608	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580465072608	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580465073046	Marionette	INFO	Stopped listening on port 33683
+1580465082108	Marionette	INFO	Listening on port 46807
+1580465082173	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22469, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1580465145936	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580465145940	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1580465229510	Marionette	INFO	Stopped listening on port 46807
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x570012,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1580465232526	Marionette	INFO	Stopped listening on port 43521
+1580465356193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VZ65WoYnnk2Y"
+1580465357305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580465357305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580465357306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580465357306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580465357478	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580465357478	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580465357479	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580465357489	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580465357489	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580465357490	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580465364746	Marionette	INFO	Listening on port 37839
+1580465364849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580465398321	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 22955, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1580465409466	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1580465754097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.88RCyAzNsnaW"
+1580465755406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580465755407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580465755408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580465755409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580465755622	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580465755622	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580465755623	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580465755636	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580465755636	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580465755637	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580465761056	Marionette	INFO	Listening on port 34111
+1580465761140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580465798042	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 23657, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1580465809596	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+TypeError: store is null: dispatchSplitConsoleCloseButtonToggle@resource://devtools/client/webconsole/webconsole-wrapper.js:604:5
+_onChangeSplitConsoleState@resource://devtools/client/webconsole/webconsole-ui.js:456:18
+emit@resource://devtools/shared/event-emitter.js:190:24
+emit@resource://devtools/shared/event-emitter.js:271:18
+selectTool/<@resource://devtools/client/framework/toolbox.js:2523:12
+
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+1580466009316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0S0Xh0XcE8Az"
+1580466011109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580466011110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580466011111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580466011112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580466011614	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580466011615	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580466011617	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580466011645	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580466011645	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580466011647	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580466017435	Marionette	INFO	Listening on port 42955
+1580466017494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580466050633	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 24000, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1580466062891	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1580466110968	Marionette	INFO	Stopped listening on port 42955
+1580466112097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.czHaffHAqNay"
+1580466113737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1580466113737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1580466113738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1580466113738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1580466113913	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580466113913	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580466113914	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580466113924	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580466113924	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580466113925	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580466119255	Marionette	INFO	Listening on port 44085
+1580466119299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1580466152713	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 24245, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1580466386003	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580466386044	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1580466744254	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1580466744278	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 24245, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24245, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1580470354758	Marionette	INFO	Stopped listening on port 44085
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1580470358922	Marionette	INFO	Stopped listening on port 34111
